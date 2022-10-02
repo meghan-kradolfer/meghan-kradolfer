@@ -1,10 +1,12 @@
 {
   "name": "meghan-kradolfer",
-  "homepage": "http://meghankradolfer.com",
+  "homepage": "https://meghan-kradolfer.github.io/meghan-kradolfer/ ",
   "version": "1.0.0",
   "description": "The portfolio site for Meghan Kradolfer",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start-js": "react-scripts start",
     "start-scripts": "react-scripts start",
     "start": "npm-run-all -p watch-css start-js",
