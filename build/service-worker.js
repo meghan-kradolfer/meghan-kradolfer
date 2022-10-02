@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meghan-kradolfer/precache-manifest.5fd526971c52c9c89624e3a2db7f3f54.js"
+  "/meghan-kradolfer/precache-manifest.9f4c23cb74227e8adb09f1b26db750b4.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -95,7 +95,6 @@ class App extends Component {
         <main>
           <Home />
           <Who />
-          <What />
           <Fade>
             <Where />
           </Fade>

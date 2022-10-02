@@ -30,10 +30,10 @@ class What extends Component {
               </p>
               <p>
                 Over the past few years working as a developer I have been
-                expanding my knowledge of <b>back-end development</b> on the
-                web. A lot of projects I have been involved in included
-                server-side work and databases. I have also helped setting up
-                data-structure and the the creation of CMS systems.
+                expanding my knowledge of <b>backend development</b> on the web.
+                A lot of projects I have been involved in included server-side
+                work and databases. I have also helped setting up data-structure
+                and the the creation of CMS systems.
               </p>
             </div>
           </div>
