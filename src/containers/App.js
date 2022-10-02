@@ -6,8 +6,6 @@ import ReactGA from 'react-ga';
 import Nav from '../components/Nav';
 import Home from '../containers/Home';
 import Who from '../containers/Who';
-import What from '../containers/What';
-import Work from '../containers/Work';
 import Where from '../containers/Where';
 import How from '../containers/How';
 
