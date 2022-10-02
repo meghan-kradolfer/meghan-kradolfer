@@ -16,6 +16,33 @@ class Where extends Component {
             </div>
             <div className="col-7 timeline">
               <Zoom>
+                <div className="item white">
+                  <div className="row">
+                    <div className="col-6">
+                      <p>
+                        <strong>Christchurch, New Zealand</strong>
+                      </p>
+                      <p>2022 - present</p>
+                    </div>
+                    <div className="col-6 text-right">
+                      <p>
+                        <strong>Frontend Developer</strong>
+                      </p>
+                    </div>
+                    <hr />
+                  </div>
+                  <p>
+                    Working on the frontend of Riparide's web-based product, I
+                    primarily used React/Redux/GraphQL to improve and implement
+                    new features that meet the company's product goals and KPIs.
+                    Our daily tasks included supporting new and old features
+                    with Jest unit tests, completing small backend tasks using
+                    Rails, and working alongside designers to create a design
+                    system.
+                  </p>
+                </div>
+              </Zoom>
+              <Zoom>
                 <div className="item gold">
                   <div className="row">
                     <div className="col-6">
