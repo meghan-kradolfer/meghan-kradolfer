@@ -1,6 +1,6 @@
 # Meghan Kradolfer
 
-- - -
+---
 
 ## Installing
 
@@ -14,19 +14,19 @@ npm install
 
 Run on local server
 
-``` javascript
-yarn start
+```javascript
+npm run start
 ```
 
 ## Building
 
-``` javascript
-yarn build-dev
+```javascript
+npm run build-dev
 ```
 
 ## Push to origin
 
-``` javascript
+```javascript
 git add .
 git commit -m "another commit"
 git push origin
