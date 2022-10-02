@@ -14,7 +14,7 @@ class What extends Component {
               <h5>What do I offer?</h5>
               <h1>My Skills</h1>
               <p>
-                <b>Front-end Development</b> is my passion. I love being able to
+                <b>Frontend Development</b> is my passion. I love being able to
                 combine design and development together to create websites that
                 serve as both a functional element and a great design. I love
                 working in this forever changing field and try to keep up to
@@ -25,7 +25,7 @@ class What extends Component {
                 my interest for all things design and web related. I believe to
                 be a great web developer you need to have a good understanding
                 of design and the user experience. The art of combining this
-                with smooth back-end functionality is something that goes so
+                with smooth backend functionality is something that goes so
                 unnoticed but can make all the difference.
               </p>
               <p>
