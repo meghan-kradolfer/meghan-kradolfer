@@ -23,11 +23,3 @@ npm run start
 ```javascript
 npm run build-dev
 ```
-
-## Push to origin
-
-```javascript
-git add .
-git commit -m "another commit"
-git push origin
-```
